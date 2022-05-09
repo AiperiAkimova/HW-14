@@ -1,0 +1,16 @@
+
+.green{
+  width: 400px;
+  height: 400px;
+  background-color: green;
+  margin: 50px auto;
+  border: 2px solid;
+}
+.red{
+  width: 400px;
+  height: 400px;
+  background-color: red;
+  margin: 50px auto;
+  border: 2px solid;
+}
+
